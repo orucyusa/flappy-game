@@ -22,9 +22,8 @@ You can play the game in sample scene in Unity.
 ## Acknowledgments
 
 * [orucyusa](https://github.com/orucyusa)
-* 
 
 ## Screenshots
 
-![Image](https://orucyusa.github.io/flappy-game/blob/master/Flappy1.png)
-![Image](https://orucyusa.github.io/flappy-game/blob/master/Flappy2.png)
+![Image](https://orucyusa.github.io/flappy-game/Flappy1.png)
+![Image](https://orucyusa.github.io/flappy-game/Flappy2.png)
